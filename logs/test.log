@@ -1,0 +1,198 @@
+2024-12-07 14:17:26 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:17:27 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:17:29 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:17:30 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:17:30 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:17:30 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:17:32 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:17:33 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:23:09 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:23:11 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:23:13 [TestNG-test=csk ui test-1] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:23:13 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:23:13 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:23:14 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:23:16 [TestNG-test=csk ui test-1] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:23:16 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:24:13 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:24:14 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:24:17 [TestNG-test=csk ui test-1] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:24:17 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:24:17 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:24:18 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:24:20 [TestNG-test=csk ui test-1] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:24:20 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:25:51 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:25:52 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:25:54 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Scenario passed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:25:55 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:25:55 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:25:55 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:25:58 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Scenario passed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:25:58 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:29:06 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:29:07 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:29:10 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Scenario passed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:29:10 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-07 14:29:10 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-07 14:29:10 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-07 14:29:13 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Scenario passed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-07 14:29:13 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 18:21:19 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 18:21:21 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 18:21:25 [TestNG-test=csk ui test-1] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 18:21:26 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 18:21:26 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 18:21:27 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 18:21:31 [TestNG-test=csk ui test-1] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 18:21:31 [TestNG-test=csk ui test-1] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:08:42 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:08:44 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:08:48 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:08:48 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:08:48 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:08:49 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:08:53 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:08:53 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:17:12 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:17:14 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:17:17 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:17:18 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:17:18 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:17:19 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:17:22 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:17:22 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:17:22 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:17:23 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:17:27 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:17:27 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:17:27 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:17:28 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:17:31 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:17:32 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:19:10 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:19:12 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:19:16 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:19:16 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:19:16 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:19:17 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:19:21 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:19:21 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:24:52 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:24:54 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:24:57 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:24:57 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:24:57 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:24:58 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:25:02 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:25:02 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:27:43 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:27:44 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:27:48 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:27:48 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:27:48 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:27:49 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:27:53 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:27:53 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:34:56 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:34:58 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:35:01 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:35:01 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:35:01 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:35:02 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:35:06 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Beyoglu Municipality Land Square Meter Unit Value Search
+2024-12-11 19:35:06 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:35:25 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:35:27 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:35:28 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:35:28 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:35:28 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:35:29 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:35:29 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:35:30 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:35:51 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:35:52 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:35:55 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:35:55 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:35:55 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:35:56 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:35:57 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:35:57 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:36:37 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:36:39 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:36:41 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:36:41 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:36:41 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:36:41 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:36:43 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:36:43 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:51:35 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:51:37 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:51:39 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:51:39 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 19:51:39 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 19:51:40 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 19:51:42 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 19:51:42 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:02:59 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:03:00 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:03:02 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:03:03 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:03:03 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:03:04 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:03:06 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:03:06 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:07:59 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:08:00 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:08:03 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:08:03 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:08:03 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:08:04 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:08:06 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:08:07 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:08:45 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:08:47 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:08:49 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:08:50 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:08:50 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:08:50 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:08:53 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:08:53 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:09:20 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:09:22 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:12:25 [main] ERROR steps.BaseStepsDefinition - Scenario failed: Pharmacy Search
+2024-12-11 20:12:25 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:12:25 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:12:26 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:17:07 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:17:08 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:17:10 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:17:10 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:17:11 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:17:11 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:17:14 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:17:14 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:23:57 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:23:59 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:24:03 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:24:03 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:24:03 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:24:04 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:24:08 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:24:08 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:24:55 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:24:56 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:25:02 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:25:02 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:25:02 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:25:02 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:25:08 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:25:08 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:28:39 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:28:40 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:28:43 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:28:43 [main] INFO  steps.BaseStepsDefinition - Driver is closed.
+2024-12-11 20:28:43 [main] INFO  steps.BaseStepsDefinition - Test setup is starting...
+2024-12-11 20:28:44 [main] INFO  steps.BaseStepsDefinition - Driver is initialized.
+2024-12-11 20:28:47 [main] INFO  steps.BaseStepsDefinition - Scenario passed: Pharmacy Search
+2024-12-11 20:28:47 [main] INFO  steps.BaseStepsDefinition - Driver is closed.

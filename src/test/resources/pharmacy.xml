@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FeatureSuite" parallel="false">
+
+
+    <!-- Pharmacy.feature Test -->
+    <test name="PharmacyFeatureTest">
+        <classes>
+            <class name="test.TestRunner">
+                <methods>
+                    <include name=".*" />
+                </methods>
+                <parameter name="cucumber.options" value="--features src/test/resources/Feature/Pharmacy.feature --glue stepDefinitions" />
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="utils.AllureListener" />
+    </listeners>
+</suite>
